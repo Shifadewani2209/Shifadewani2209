@@ -37,7 +37,7 @@ Real-time pose detection & correction using OpenCV
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shifadewani2209&show_icons=true&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shifadeewani2209&show_icons=true&theme=radical)
 
 
 ## 🌐 Connect With Me  
