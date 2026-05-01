@@ -1,49 +1,36 @@
-# Hi, I'm Shifa 👋  
+# Hi, I'm Shifa 👋
 
-🚀 AI & Data Science Engineer  
-💡 Building real-world AI products using Python, ML & GenAI  
+AI & Data Science Engineer | GenAI | Machine Learning | Computer Vision
 
+## 🚀 About Me
 
-## 🧠 About Me  
+- AI/ML Developer with 1+ year experience
+- Building real-world AI and full-stack projects
+- Interested in GenAI, Computer Vision, and automation
+- Currently improving my GitHub with professional projects
 
-- 💻 AI/ML Developer with 1+ year experience  
-- 🤖 Working on Generative AI & Computer Vision projects  
-- ⚡ Love building real-world problem-solving systems  
-- 🎯 Goal: Build scalable AI products & work in top tech companies  
+## 🛠 Tech Stack
 
+Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learning | OpenCV | LangChain
 
-## 🔥 Featured Projects  
+## 🔥 Featured Projects
 
-### 🧾 SmartResume AI  
-GenAI-powered Resume & JD Matching System with ATS scoring  
+- SmartResume AI
+- Curalink AI
+- Employee Productivity Monitoring System
+- Yoga AI App
 
-### 🏥 Curalink AI  
-Medical research assistant using PubMed, OpenAlex & ClinicalTrials  
+## 🌐 Connect With Me
 
-### 👨‍💼 Employee Productivity Monitoring  
-Computer Vision system for tracking employee activity & performance  
+LinkedIn: https://www.linkedin.com/in/shifa-dewani-624196225/
+Portfolio: https://shifadewani.in/
 
-### 🧘 Yoga AI App  
-Real-time pose detection & correction using OpenCV  
+## 🛠 Tech Stack
 
-## 🛠 Tech Stack  
-
-- 💻 Python, JavaScript  
-- ⚛️ React, Node.js, MongoDB  
-- ⚡ FastAPI  
-- 🤖 Machine Learning, OpenCV  
-- 🧠 LLMs, LangChain  
-
-
-## 📊 GitHub Stats  
-
-![Shifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifadewani2209&show_icons=true&theme=tokyonight)
-
-## 🌐 Connect With Me  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/shifa-dewani-624196225/
-- 🌐 Portfolio: https://shifadewani.in/  
-- 📧 Email: shifadewani6@gmail.com
-
-
-⭐️ *Always building. Always learning.*
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
+![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-purple)
