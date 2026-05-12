@@ -1,10 +1,11 @@
 <p align="center">
   <img src="./github-banner.gif-ezgif.com-video-to-gif-converter.gif" alt="Shifa Dewani Animated Banner" width="100%" />
 </p>
-# Hi, I'm Shifa 👋
+<h1 align="center">Hi, I'm Shifa 👋</h1>
 
-AI & Data Science Engineer | GenAI | Machine Learning | Computer Vision
-
+<h3 align="center">
+AI & Data Science Engineer • GenAI • Computer Vision
+</h3>
 ## 🚀 About Me
 
 - AI/ML Developer with 1+ year experience
