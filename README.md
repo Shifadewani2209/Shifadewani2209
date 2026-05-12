@@ -16,7 +16,13 @@ AI & Data Science Engineer • GenAI • Computer Vision
 - Building real-world AI and full-stack projects
 - Interested in GenAI, Computer Vision, and automation
 
+## 🚀 Currently Building
 
+- AI-powered Employee Productivity Monitoring System  
+- GenAI Resume Analyzer & ATS Matching Platform  
+- Computer Vision based Automation Systems  
+- Exploring RAG, LLM Agents, and AI Workflows
+  
 ## 🛠 Tech Stack
 
 Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learning | OpenCV | LangChain
