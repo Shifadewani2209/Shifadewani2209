@@ -41,6 +41,9 @@ Portfolio: https://shifadewani.in/
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
 ![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-purple)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,tensorflow,pytorch,react,nodejs,mongodb,docker,aws,git,github" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shifadewani2209&show_icons=true&theme=tokyonight&hide_border=true" />
