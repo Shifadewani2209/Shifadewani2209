@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.gif" width="100%" />
+  <img src="./github-banner.gif-ezgif.com-video-to-gif-conv..." width="100%" />
 </p>
 
 # Hi, I'm Shifa 👋
