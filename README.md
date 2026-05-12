@@ -7,7 +7,7 @@ AI & Data Science Engineer | GenAI | Machine Learning | Computer Vision
 - AI/ML Developer with 1+ year experience
 - Building real-world AI and full-stack projects
 - Interested in GenAI, Computer Vision, and automation
-- Currently improving my GitHub with professional projects
+
 
 ## 🛠 Tech Stack
 
