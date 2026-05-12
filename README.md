@@ -48,13 +48,6 @@ Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learni
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-purple)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,tensorflow,pytorch,react,nodejs,mongodb,docker,aws,git,github" />
 </p>
