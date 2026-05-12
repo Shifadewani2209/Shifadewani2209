@@ -71,3 +71,8 @@ AI-based yoga pose detection and correction app for real-time posture feedback.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shifadewani2209&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shifadewani2209/Shifadewani2209/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
