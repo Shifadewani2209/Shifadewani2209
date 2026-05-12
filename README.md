@@ -66,3 +66,7 @@ Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learni
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shifadewani2209&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shifadewani2209&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
