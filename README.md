@@ -36,8 +36,15 @@ Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learni
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/shifa-dewani-624196225/
-Portfolio: https://shifadewani.in/
+<p align="center">
+  <a href="https://www.linkedin.com/in/shifa-dewani-624196225/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://shifadewani.in">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+  </a>
+</p>
 
 ## 🛠 Tech Stack
 
