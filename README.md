@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Developer;Computer+Vision+Builder;Building+Real-World+AI+Products" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shifadewani2209&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 <h1 align="center">Hi, I'm Shifa 👋</h1>
 
 <h3 align="center">
