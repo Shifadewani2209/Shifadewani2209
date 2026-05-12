@@ -29,10 +29,19 @@ Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learni
 
 ## 🔥 Featured Projects
 
-- SmartResume AI
-- Curalink AI
-- Employee Productivity Monitoring System
-- Yoga AI App
+## 🔥 Featured Projects
+
+### 🩺 Curalink AI
+MERN-based medical research assistant that retrieves and structures evidence from research papers and clinical trials.
+
+### 📄 SmartResume AI
+GenAI-powered resume and job description analyzer that scores ATS match and generates improvement reports.
+
+### 👁️ Employee Productivity Monitoring System
+Computer vision system that detects working vs idle activity using live camera feed and ROI-based analytics.
+
+### 🧘 Yoga AI App
+AI-based yoga pose detection and correction app for real-time posture feedback.
 
 ## 🌐 Connect With Me
 
