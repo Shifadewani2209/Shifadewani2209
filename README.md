@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./github-banner.gif-ezgif.com-video-to-gif-converter.gif" alt="Shifa Dewani Animated Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Developer;Computer+Vision+Builder;Building+Real-World+AI+Products" />
+</p>
 <h1 align="center">Hi, I'm Shifa 👋</h1>
 
 <h3 align="center">
