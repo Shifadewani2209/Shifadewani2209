@@ -27,7 +27,6 @@ AI & Data Science Engineer • GenAI • Computer Vision
 
 Python | JavaScript | React | Node.js | MongoDB | FastAPI | SQL | Machine Learning | OpenCV | LangChain
 
-## 🔥 Featured Projects
 
 ## 🔥 Featured Projects
 
