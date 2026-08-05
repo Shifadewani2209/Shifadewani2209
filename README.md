@@ -10,7 +10,7 @@
 <h3 align="center">
 AI & Data Science Engineer • GenAI • Computer Vision
 </h3>
- 🚀 About Me
+## 🚀 About Me
 
 - AI/ML Developer with 1+ year experience
 - Building real-world AI and full-stack projects
